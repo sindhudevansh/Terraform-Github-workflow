@@ -69,7 +69,7 @@ variable "osdisk" {
 }
 
 variable "computername" {
-    default = "TestVirtualMachine"
+    default = "github"
 }
 
 variable "username" {
