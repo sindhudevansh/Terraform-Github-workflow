@@ -15,7 +15,6 @@ jobs:
     runs-on: ubuntu-latest
   
   steps:
-  # Checkout the repository to the GitHub Actions runner
   - name: Checkout
     uses: actions/checkout@v3
 
